@@ -1,6 +1,6 @@
 # ClassInitiator
  
- This script takes a filename as an argument, generates a **.cpp** and **.h** file with that name, and writes some basic content into them. The content written into the **.cpp** file includes an include directive for the corresponding **.h** file, along with a basic class constructor and destructor. The **.h** file contains a class declaration with private, protected, and public sections, along with declarations for the constructor and destructor.
+ This script takes one or more filenames as arguments, generates a **.cpp** and **.h** file with that name, and writes some basic content into them. The content written into the **.cpp** file includes an include directive for the corresponding **.h** file, along with a basic class constructor and destructor. The **.h** file contains a class declaration with private, protected, and public sections, along with declarations for the constructor and destructor.
 
 To use this script, run it with the desired filename as an argument, like so:  
 
