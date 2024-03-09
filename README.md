@@ -5,7 +5,7 @@
 To use this script, run it with the desired filename as an argument, like so:  
 
 ```shell
-./script.sh myclassname
+./classinitiator.sh myclassname
 ```
 
 This will generate **myclassname.cpp** and **myclassname.h** files with the appropriate content.  
